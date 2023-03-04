@@ -1,0 +1,26 @@
+
+.addItemClass{
+  display: flex;
+
+
+
+}
+
+.buttonClass{
+  margin-left: 10px;
+}
+
+
+.cart-item{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.inc-dec{
+  display: flex;;
+  flex-direction: column;
+
+}
+
